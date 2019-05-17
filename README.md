@@ -1,4 +1,4 @@
-# all english peoms save
+# All english peoms save
 
 The basic building blocks of scripting Nginx with Lua are directives. Directives are used to specify when the user Lua code is run and
 how the result will be used. Below is a diagram showing the order in which directives are executed.
